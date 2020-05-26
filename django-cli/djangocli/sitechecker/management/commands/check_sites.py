@@ -1,4 +1,5 @@
 # Perform a HTTP HEAD request to see if a site is up and return a 200 OK response
+# Push to GIT
 import datetime
 
 from django.contrib.sites import requests
